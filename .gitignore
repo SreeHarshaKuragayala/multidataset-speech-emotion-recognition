@@ -1,0 +1,15 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+results/*.pth
+results/*.pkl
+results/cached_features.pkl
+DATASET/
+DATASET_WAV/
+DATASETS-VOICE/
+*.zip
+*.wav
+*.mp3
